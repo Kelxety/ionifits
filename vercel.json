@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/session/start.ts": {
-      "includeFiles": "assets/**"
-    }
-  }
-}
